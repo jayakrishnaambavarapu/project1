@@ -2,3 +2,5 @@ my name is jayakrishna and now i am learning git commands
 git is a distributed version control
 github is a web based hosting service
 examples of web based hosting service are github, gitlab, bitbucket and many more...
+centralized version control system and distributed version control system
+
