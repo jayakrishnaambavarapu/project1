@@ -1,4 +1,5 @@
 /* sample program for calculator */
+/* sample program for addition subtraction multiplication division using switch case */
 import java.util.Scanner;
 
  public class calculator
